@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tiller-tolbus
-- 👀 I’m interested in Urbit
-- 🌱 I’m currently learning Gall
+- 👀 I’m interested in Martian Computing
+- 🌱 I’m currently learning Full Stack Urbit Development
 - 💞️ I’m looking to collaborate on Urbit userspace apps and core development 
-- 📫 How to reach me ~tiller-tolbus
+- 📫 How to reach me: if you know you know
 
 <!---
 tiller-tolbus/tiller-tolbus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
